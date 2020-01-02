@@ -1,14 +1,48 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+{ 
+"news": [ 
+	{ 
+		"id": "1", 
+		"headline": "ICC Test rankings: Virat Kohli finishes 2019 as No. 1 batsman after Steve Smith's ordinary run vs New Zealand", 
+		"description": "Notably, Steve Smith had risen to the No. 1 spot after a stunning run in Ashes 2019 -- which was also his comeback series after spending a year away due to ball-tampering ban. Smith had scored 774 runs at a staggering average of 110.57 in 4 matches in England during which he dethroned Virat Kohli.", 
+		"newsimage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201912/viratkohliicctest-770x433.jpeg?HZ0QMMxFZ6OfB6cEls9yojhVGggpsf1P", 
+		"author": "By Indiatoday", 
+		"timeline": "15 mins ago" 
+	},
+	
+	{ 
+		"id": "2", 
+		"headline": "India to bid for 2026 or 2030 Commonwealth Games, to send team for Birmingham 2022", 
+		"description": "The IOA also approved the National Rifle Association of India's (NRAI) proposal to host a separate Commonwealth shooting championship before the main Games in Birmingham, hoping to make up for the sport's withdrawal from the roster of the 2022 edition.", 
+		"newsimage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201912/viratkohliicctest-770x433.jpeg?HZ0QMMxFZ6OfB6cEls9yojhVGggpsf1P", 
+		"author": "By Indiatoday", 
+		"timeline": "20 mins ago" 
+	}, 
+	
+	{ 
+		"id": "3", 
+		"headline": "Gautam Gambhir not eligible to contest for DDCA president post as per Lodha reforms", 
+		"description": "Talking about Gambhir's candidature for the post left vacant by Rajat Sharma's resignation, Tihara said: He is welcome to serve Delhi cricket but he can be president only when he leaves MP's post.", 
+		"newsimage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201912/RTSM7VA-770x433.jpeg?DynPKl6MVKgRWJaPFL9EP_lQy.UgviLC", 
+		"author": "By Indiatoday", 
+		"timeline": "25 mins ago" 
+	},
+	
+	{ 
+		"id": "4", 
+		"headline": "Vikas Krishan, Gaurav Solanki make the cut for 2020 Asian Olympic qualifiers", 
+		"description": "The Commonwealth Games medal winners Gaurav Solanki (57kg) and Naman Tanwar (91kg) also made the squad after winning their respective final bouts. Asian silver medallist Ashish Kumar (75kg), veteran Satish kumar (+91kg) and Sachin Kumar (81kg) also booked their places in the squad.", 
+		"newsimage":  "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201912/gambhir30122019-770x433.jpeg?r1YKvzawXff4j9H7eImKf_xreTY7n948",
+		"author": "By Indiatoday", 
+		"timeline": "25 mins ago" 
+	}, 
+	
+	{ 
+		"id": "5", 
+		"headline": "India ODI series: Australia include big-hitter D'Arcy Short as injury replacement for Sean Abbott", 
+		"description": "Australia already have 4 frontline pacers in Mitchell Starc, Pat Cummins, Josh Hazlewood and Kane Richardson for the India series. D'Arcy Short, apart from his big-hitting abilities, also provides an extra bowling option as he is a handy leg-spinner.", 
+		"newsimage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201912/dracryshort-770x433.jpeg?6Y0mfOui27o1UXMRJSlyDMpA.NbeEFOr", 
+		"author": "By Indiatoday", 
+		"timeline": "25 mins ago" 
+	} 
+]
 }
